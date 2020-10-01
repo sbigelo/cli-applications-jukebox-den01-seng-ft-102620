@@ -50,7 +50,7 @@ def run(songs)
     exit_jukebox
   elsif responses == "help"
     help
-  else 
+  elsif responses == 
     
 
 end
